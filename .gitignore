@@ -150,3 +150,8 @@ internal-documents
 internal-resources.md
 
 .vscode
+config/personal_dev/config
+config/personal_dev/credentials
+config/personal_dev/name
+config/post_config_container.sh
+*.zip
